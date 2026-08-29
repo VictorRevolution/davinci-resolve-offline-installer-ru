@@ -31,13 +31,7 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td style="padding: 10px;"><img width="320" height="280" alt="DaVinci Resolve интерфейс 1" src="https://github.com/user-attachments/assets/fbe7e2c1-911b-40f8-a234-93d157d4fc37" /></td>
-    <td style="padding: 10px;"><img width="320" height="280" alt="DaVinci Resolve интерфейс 2" src="https://github.com/user-attachments/assets/532e30ae-57a6-4c16-8ee6-7001e2b0912c" /></td>
-    <td style="padding: 10px;"><img width="320" height="280" alt="DaVinci Resolve интерфейс 3" src="https://github.com/user-attachments/assets/200d2261-3bed-4aca-bd57-f5c63d9c66ed" /></td>
-  </tr>
-</table>
+
 
 ---
 
